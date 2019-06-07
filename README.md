@@ -3,7 +3,7 @@
 ### Overview
 This is a simple bash script that will create a simple boilerplate **AWS Amplify App**. This tool is intended for users that will be creating a Vanilla Javascript app.  The boiler plate app configuration steps and code is pulled directly from **AWS's own documentation**.
 
-This is not currently a serious project. It's just something I made so that I could get a AWS Amplify starting point very quickly.  I put it here because I thought perhaps someone might make use of this.
+This is not currently a serious project. It's just something I made so that I could get an AWS Amplify App starting point very quickly.  I put it here because I thought perhaps someone might make use of this.
 
 **The reference documentation for this bash script:** https://aws-amplify.github.io/docs/js/start?ref=amplify-js-btn&platform=purejs
 
