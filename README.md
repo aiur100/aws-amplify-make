@@ -7,7 +7,7 @@ This is not currently a serious project. It's just something I made so that I co
 
 **The reference documentation for this bash script:** https://aws-amplify.github.io/docs/js/start?ref=amplify-js-btn&platform=purejs
 
-###If You REALLY want to change this...
+### If You REALLY want to change this...
 * Even though I am not really taking this seriously, you are welcome to help and add any other functionality.
 
 ### Requirements
